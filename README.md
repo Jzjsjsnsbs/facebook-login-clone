@@ -1,6 +1,6 @@
 # facebook-login-clone
 
-A responsive clone of Facebook login page using HTML & CSS for computer screen and mobile screen.
+Olá seja bem-vinda ao Facebook
 
 ### You can see a live demo [here](https://ab-facebook.netlify.app/).
 
